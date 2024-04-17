@@ -28,7 +28,7 @@ def press_ctrl_arrow():
         pyautogui.keyUp('ctrl')
         time.sleep(0.1)
     
-time.sleep(5)
+time.sleep(7)
 try:
     print('Programa iniciado')
     while True:
